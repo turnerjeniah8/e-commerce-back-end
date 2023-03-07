@@ -25,7 +25,7 @@ Tag.init(
     },
 
     tag_id: {
-      type: DataType.INTEGER,
+      type: DataTypes.INTEGER,
       //references the tag model id here
       references: {
         model: 'tag',
