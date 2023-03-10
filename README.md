@@ -11,6 +11,8 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
 * sequelize
 
 # Images 
+![Screenshot (84)](https://user-images.githubusercontent.com/100052698/224211214-eea27995-5723-481b-9bbf-ecec60820874.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/100052698/224211239-387a6df3-e51d-4218-bdd1-6815c8bf4746.png)
 
 
 # Contact me
